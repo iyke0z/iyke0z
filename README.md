@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @iyke0z
+- 👋 Hi, I’m @Ikenna alias ikebeelion
 - 👀 I’m interested in Interests::all()
-- 🌱 I’m currently learning Laravel/Vue
+- 🌱 Laravel/Vue JS fullstack developer
 - 💞️ I’m looking to collaborate on remote projects
 - 📫 How to reach me my email eddyiyke3@gmail.com
 
