@@ -3,6 +3,7 @@
 - 🌱 Laravel/Vue JS fullstack developer
 - 💞️ I’m looking to collaborate on remote projects
 - 📫 How to reach me my email eddyiyke3@gmail.com
+-  Founder C.F.T.S
 
 
 <!---
